@@ -1,6 +1,6 @@
 package Codex_Minorproject;
 // It is quiz application.
-// It is written by kshitiz.
+// It is written by kshitiz Ranjan.
 import java.awt.event.*;
 import javax.swing.*;
 public class Quiz extends JFrame implements ActionListener{
