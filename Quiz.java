@@ -1,5 +1,5 @@
 package Codex_Minorproject;
-
+// It is quiz application.
 import java.awt.event.*;
 import javax.swing.*;
 public class Quiz extends JFrame implements ActionListener{
